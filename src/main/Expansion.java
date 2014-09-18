@@ -56,18 +56,6 @@ package main;
 //22 - Molecular Fusion
 //23 - Skid
 
-/*
- * 
- * 
- * NOTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
- * CHANGE MATERIALS AND PEOPLE AND KNOWLEDG BACK
- * 100 materials
- * 0 people
- * 0 know
- * 
- * 
- */
-
 import java.awt.AWTException;
 import java.awt.Color;
 import java.awt.Container;
